@@ -10,5 +10,6 @@ Feature1
 F2 changes
 
 Hello, Git
-Hello, again
 Updating README with new information
+Committing from an alternate location
+
